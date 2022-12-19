@@ -19,7 +19,7 @@
 
 👀 I’m interested in ... <br />
 * DevOps 
-* Consultanting
+* Consulting
 * Platform Development
 * Cloud Native
 
