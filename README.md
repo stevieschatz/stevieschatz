@@ -22,6 +22,7 @@
 * Consulting
 * Platform Development
 * Cloud Native
+* Porject Management
 
 🌱 Current Focus:
  - Internal Developer Platforms - creating "golden Paths" ... <br />
